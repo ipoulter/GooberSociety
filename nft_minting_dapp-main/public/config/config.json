@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e74d0A007E2DB9150e40Efc7C1dbd6D60A8b071",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5e74d0A007E2DB9150e40Efc7C1dbd6D60A8b071",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AnthonyIRL",
+  "SYMBOL": "ANT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/anthony_irl",
+  "SHOW_BACKGROUND": true
+}
